@@ -7,7 +7,7 @@ description = "Broadcasting futures mpmc channel"
 repository = "https://github.com/leo60228/futures-prio"
 homepage = "https://github.com/leo60228/futures-prio"
 readme = "README.md"
-keywords = ["futures", "priority", "combinator", "extension, "prio"]
+keywords = ["futures", "priority", "combinator", "extension", "prio"]
 categories = ["asynchronous", "concurrency"]
 license = "MIT OR Apache-2.0"
 
