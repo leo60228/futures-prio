@@ -1,9 +1,9 @@
 [package]
 name = "futures-prio"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["leo60228 <iakornfeld@gmail.com>"]
 edition = "2018"
-description = "Broadcasting futures mpmc channel"
+description = "Combinator to set priority of Futures"
 repository = "https://github.com/leo60228/futures-prio"
 homepage = "https://github.com/leo60228/futures-prio"
 readme = "README.md"
